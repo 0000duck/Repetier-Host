@@ -9,7 +9,7 @@ You find the latest downloads here: http://www.repetier.com/download/
 
 You need a .NET ide with c# compiler. The software is developed using 
 Visual Studio 2008. Any later version will work as well. Also an installation
-of the latest OpenTK version (http://www.opentk.com) is needed.
+of the latest OpenTK version (https://opentk.github.io/) is needed.
 
 Step 1: Open RepetierHost.sln in src/RepetierHost
 
